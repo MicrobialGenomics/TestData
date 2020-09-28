@@ -1,7 +1,7 @@
 sample,fastq_1,fastq_2
-SAMPLE1_PE_T1,https://raw.githubusercontent.com/MicrobialGenomics/TestData/ttrichiura/ttrichiura/fastq/6-29-HEL_S40_L001_R1_001.fastq.gz,https://raw.githubusercontent.com/MicrobialGenomics/TestData/ttrichiura/ttrichiura/fastq/6-29-HEL_S40_L001_R2_001.fastq.gz
-SAMPLE2_PE_T1,https://raw.githubusercontent.com/MicrobialGenomics/TestData/ttrichiura/ttrichiura/fastq/6-39-HEL_S41_L001_R1_001.fastq.gz,https://raw.githubusercontent.com/MicrobialGenomics/TestData/ttrichiura/ttrichiura/fastq/6-39-HEL_S41_L001_R2_001.fastq.gz
-SAMPLE3_PE_T1,https://raw.githubusercontent.com/MicrobialGenomics/TestData/ttrichiura/ttrichiura/fastq/6-40-HEL_S42_L001_R1_001.fastq.gz,https://raw.githubusercontent.com/MicrobialGenomics/TestData/ttrichiura/ttrichiura/fastq/6-40-HEL_S42_L001_R2_001.fastq.gz
+SAMPLE1_PE,https://raw.githubusercontent.com/MicrobialGenomics/TestData/ttrichiura/ttrichiura/fastq/6-29-HEL_S40_L001_R1_001.fastq.gz,https://raw.githubusercontent.com/MicrobialGenomics/TestData/ttrichiura/ttrichiura/fastq/6-29-HEL_S40_L001_R2_001.fastq.gz
+SAMPLE2_PE,https://raw.githubusercontent.com/MicrobialGenomics/TestData/ttrichiura/ttrichiura/fastq/6-39-HEL_S41_L001_R1_001.fastq.gz,https://raw.githubusercontent.com/MicrobialGenomics/TestData/ttrichiura/ttrichiura/fastq/6-39-HEL_S41_L001_R2_001.fastq.gz
+SAMPLE3_PE,https://raw.githubusercontent.com/MicrobialGenomics/TestData/ttrichiura/ttrichiura/fastq/6-40-HEL_S42_L001_R1_001.fastq.gz,https://raw.githubusercontent.com/MicrobialGenomics/TestData/ttrichiura/ttrichiura/fastq/6-40-HEL_S42_L001_R2_001.fastq.gz
 
 
 
